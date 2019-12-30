@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="scrtiptinterpreter.cvte.com.scriptinterpreter">
+    package="scrtiptinterpreter.com.scriptinterpreter">
 
     <application
         android:allowBackup="true"
